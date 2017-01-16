@@ -4,7 +4,7 @@ Project purpose is to help disabled people with their daily works. <br>
 
 This application helps to control robotic arm with IBM Watson Speech to Text API. <br><br>
 
-The first idea of the project is to help people. We wanted to make valuable product with the new century notorious technologies. We came up with the idea of robotic arm that can controlled by voice. <br><br>
+The first idea of the project is to help people. We wanted to make a valuable product with the new century notorious technologies. We came up with the idea of robotic arm that can controlled by voice. <br><br>
 
 <b>Used Technologies</b><br>
 
