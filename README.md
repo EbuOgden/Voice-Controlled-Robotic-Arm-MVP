@@ -23,7 +23,7 @@ The first idea of the project is to help people. We wanted to create a valuable 
 <img src="https://s23.postimg.org/sc9w42963/Screen_Shot_2017_01_15_at_5_02_24_PM.png"></img>
 
 
-<b>Collaborators</b>
+# Collaborators
 <li><a href="https://www.github.com/EbubekirOgden">ebubekirogden</a> - Ebubekir Ogden ebubekirogden@gmail.com</li>
 <li><a href="https://github.com/GokhanMaden">GokhanMaden</a> - Gokhan Maden gokhanmaden1@gmail.com</li>
 
