@@ -10,7 +10,7 @@ The first idea of the project is to help people. We wanted to create a valuable 
 
 <li> Raspberry Pi 3 Model B with Node.js </li>
 <li> 2 Servo Motors </li>
-<li> IBM's Watson Speech to Text API </li>
+<li> IBM's Watson Speech to Text API </li><br>
 
 <b>Languages</b><br>
 
