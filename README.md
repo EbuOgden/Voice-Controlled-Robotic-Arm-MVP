@@ -17,7 +17,7 @@ The first idea of the project is to help people. We wanted to create a valuable 
 <li> Python </li>
 <li> JavaScript </li>
 <li> HTML5 </li>
-
+<br>
 <p>IBM's Watson Speech to Text API was used to recognize commands such as "Left, Right, Up, Down" and Degree values such as "30, 50" then those commands would get sent to Raspberry Pi. The Raspberry Pi was used as a server and also as a hardware that can manage the robotic arm.</p><br><br><br>
 
 <!-- <img src="https://s23.postimg.org/sc9w42963/Screen_Shot_2017_01_15_at_5_02_24_PM.png"></img> -->
